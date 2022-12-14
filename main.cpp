@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-#include "PathFinder.h"
+#include "./models/PathFinder.h"
 
 using namespace std;
 
